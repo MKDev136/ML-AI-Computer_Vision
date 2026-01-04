@@ -11,5 +11,5 @@ With ML:
 
 Without ML:
 
-<a href="https://github.com/MKDev136/Virtual-Paint">Virtual Paint</a>
+<a href="https://github.com/MKDev136/Color-Detector">Selective Color Detector with Hue Saturation and value Trackbars</a>
 Document reader
